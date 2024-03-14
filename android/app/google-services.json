@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1096407272167",
+    "project_id": "g12-data",
+    "storage_bucket": "g12-data.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096407272167:android:67a785acc3d2279018f042",
+        "android_client_info": {
+          "package_name": "com.lpzdeveloper.lifeclass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByeU_uYjKnjBCroMXgVOWLWVIZ_RL3Dnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096407272167:android:bd03d0ce482646ee18f042",
+        "android_client_info": {
+          "package_name": "com.lpzvalencia.school_of_leaders_one"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByeU_uYjKnjBCroMXgVOWLWVIZ_RL3Dnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
